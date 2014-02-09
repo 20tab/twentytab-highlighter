@@ -2,7 +2,7 @@ from setuptools import setup
 import highlighter
 
 setup(
-    name='twentytab-immortalmodel',
+    name='twentytab-highlighter',
     version=highlighter.__version__,
     author='20Tab S.r.l.',
     author_email='info@20tab.com',

@@ -6,7 +6,7 @@ A django app permits to highlight the searched words (self.query) in a long text
 
 ## Installation
 
-Use the following command: <b><i>pip install twentytab-highlihter</i></b>
+Use the following command: <b><i>pip install twentytab-highlighter</i></b>
 
 
 ## Configuration
